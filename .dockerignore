@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+DEPLOY.md
+test_endpoint.sh
+test.js
+exemploUazAPI.js
